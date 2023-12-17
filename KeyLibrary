@@ -1,0 +1,9 @@
+using System;
+namespace KeyLibrary
+{
+    public class Keys
+    {
+        public static string ProKey { get; } = "pro";
+        public static string ExpKey { get; } = "exp";
+    }
+}
